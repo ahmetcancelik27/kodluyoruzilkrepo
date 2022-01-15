@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 
-[Lorempicsumgorsel](EkranAlıntısı.PNG)
+[img](EkranAlıntısı.PNG)
 
 -----------------------------------------------------------
 
