@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 
-![img](EkranAlıntısı.PNG)
+![img](https://github.com/ahmetcancelik27/kodluyoruzilkrepo)
 
 -----------------------------------------------------------
 
